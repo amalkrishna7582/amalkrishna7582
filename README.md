@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **python, machine learning...**
 
+- 💬 Ask me about **Frontend**
+
 - 📫 How to reach me **http://www.linkedin.com/in/amal-krishna-ab41942b6**
 
 <h3 align="left">Connect with me:</h3>
